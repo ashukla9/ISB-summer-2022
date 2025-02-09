@@ -1,6 +1,4 @@
-# ISB-summer-2022
-
-Glioblastoma Report
+# Analyzing Glioblastoma Data Using PCA And K-Means Clustering
 
 I used this Bioconductor tutorial (http://bioconductor.org/books/3.15/OSCA.basic/cell-type-annotation.html#assigning-cluster-labels-from-markers) and this clustering tutorial (https://www.gaininginsight.org/cmwg/2020/coronavirus/scrna-seq-analysis) to learn more about analyzing RNA-seq data. 
 
